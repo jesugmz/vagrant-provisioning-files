@@ -1,4 +1,4 @@
-vagrant-provisioning-bundles
+vagrant-provisioning-files
 ============================
 
-Vagrant provisioning files for different stacks
+Vagrant provisioning files for different stacks.
