@@ -3,7 +3,7 @@
 #
 # CentOS 7 LAMP stack.
 #
-# Apache (2.4 + MPM prefork)/MariaDB (10.1)/PHP (5.6 + mod_php) with MariaDB oficial repo.
+# Apache (2.4 + MPM prefork)/MariaDB (10.1)/PHP (5.6 + mod_php) with MariaDB official repo.
 # Pay attention, firewalld is disabled for agile development.
 #
 
