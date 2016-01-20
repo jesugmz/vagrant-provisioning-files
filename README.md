@@ -1,7 +1,7 @@
 Vagrant provisioning files
 ==========================
 
-# Vagrant provisioning files for different stacks.
+Vagrant provisioning files for different stacks.
 
 # Prerequisites
 Vagrant synced_folder need vagrant-vbguest plugin:
